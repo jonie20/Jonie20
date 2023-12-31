@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonie20&label=Profile%20views&color=0e75b6&style=flat" alt="jonie20" /> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://github.com/jonie20/MyPortfolio)
+- 🔭 I’m currently working on [My portfolio](https://github.com/jonie20/Django-portfolio)
 
 - 🌱 I’m currently learning **Cloud & Network Security by Cyber Shujaa**
 
