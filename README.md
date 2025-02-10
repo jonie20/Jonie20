@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonie20&label=Profile%20views&color=0e75b6&style=flat" alt="jonie20" /> </p>
 
+- Founder of Inooo Softwares & Technology 
+
 - 🔭 I’m currently working on [CyberPay](https://github.com/jonie20/CyberPay)
 
 - 🌱 I’m currently learning **Cloud & Network Security by Cyber Shujaa**
