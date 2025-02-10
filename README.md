@@ -1,11 +1,13 @@
 <h1 align="center">Hello, Johnstone Kipkosgei Cheruiyot</h1>
-<h3 align="center">A passionate web developer from Kenya🇰🇪</h3>
+<h3 align="center">A passionate web developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonie20&label=Profile%20views&color=0e75b6&style=flat" alt="jonie20" /> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://github.com/jonie20/Django-portfolio)
+- 🔭 I’m currently working on [CyberPay](https://github.com/jonie20/CyberPay)
 
 - 🌱 I’m currently learning **Cloud & Network Security by Cyber Shujaa**
+  
+-  A Student mentor at eMobilis Technology Training Institute
 
 - 👨‍💻 All of my projects are available at [https://github.com/jonie20](https://github.com/jonie20)
 
